@@ -29,8 +29,8 @@ BTW, if you are interested to learn Pytorch, [there](https://github.com/MorvanZh
 * [shared_adam.py](/shared_adam.py): optimizer that shares its parameters in parallel
 * [utils.py](/utils.py): useful function that can be used more than once
 
-CartPole result
-![cartpole](/results/A3C_pong_final (4 threads).png)
+Pong result
+![Pong](/results/A3C_pong_final_4threads.png)
 
 ## Dependencies
 
