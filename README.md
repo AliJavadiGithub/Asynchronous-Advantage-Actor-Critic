@@ -30,7 +30,7 @@ BTW, if you are interested to learn Pytorch, [there](https://github.com/MorvanZh
 * [utils.py](/A3C/utils.py): useful function that can be used more than once
 
 Pong result
-![Pong](/results/A3C_pong_final_4threads.png)
+![Pong](results/A3C_pong_final (4 threads).png)
 
 ## Dependencies
 
