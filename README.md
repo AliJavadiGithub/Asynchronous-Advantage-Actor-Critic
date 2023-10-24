@@ -21,9 +21,6 @@ When using only one machine, it is slower than threading version I wrote.
 
 Fortunately, Pytorch gets the [multiprocessing compatibility](http://pytorch.org/docs/master/notes/multiprocessing.html).
 
-BTW, if you are interested to learn Pytorch, [there](https://github.com/MorvanZhou/PyTorch-Tutorial)
- is my simple tutorial code with many visualizations. I also made the tensorflow tutorial (same as pytorch) available in [here](https://github.com/MorvanZhou/Tensorflow-Tutorial).
-
 ## Codes & Results
 
 * [shared_adam.py](/A3C/shared_adam.py): optimizer that shares its parameters in parallel
