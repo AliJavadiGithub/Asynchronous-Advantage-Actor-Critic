@@ -2,7 +2,7 @@
 # Simple implementation of Reinforcement Learning (A3C) using Pytorch
 
 This is a toy example of using multiprocessing in Python to asynchronously train a
-neural network to play discrete action [Pong](https://gym.openai.com/envs/Pong-v0/).
+neural network to play discrete action [Pong](https://gym.openai.com/envs/PongNoFrameskip-v4/).
 The asynchronous algorithm I used is called [Asynchronous Advantage Actor-Critic](https://arxiv.org/pdf/1602.01783.pdf) or A3C.
 
 
