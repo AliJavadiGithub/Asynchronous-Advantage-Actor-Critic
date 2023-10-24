@@ -26,8 +26,8 @@ BTW, if you are interested to learn Pytorch, [there](https://github.com/MorvanZh
 
 ## Codes & Results
 
-* [shared_adam.py](/shared_adam.py): optimizer that shares its parameters in parallel
-* [utils.py](/utils.py): useful function that can be used more than once
+* [shared_adam.py](/A3C/shared_adam.py): optimizer that shares its parameters in parallel
+* [utils.py](/A3C/utils.py): useful function that can be used more than once
 
 Pong result
 ![Pong](/results/A3C_pong_final_4threads.png)
